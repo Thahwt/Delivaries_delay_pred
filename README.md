@@ -42,5 +42,3 @@ The table below summarizes the performance across different validation strategie
 * Apply **Cost-sensitive Learning** to penalize False Negatives (missing a delay) more heavily.
 * Experiment with advanced over-sampling methods like SMOTE-Tomek or ADASYN.
 
-## Contact Information
-Thu-Nhi Ho-Huynh - 23521107@gm.uit.edu.vn
