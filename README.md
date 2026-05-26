@@ -1,7 +1,7 @@
 # Delay Prediction Project: Handling Severe Class Imbalance
 
 This project focuses on building a predictive model to forecast delivery or operational delays. The primary challenge lies in managing **severe class imbalance** (majority class is composed of approximately 94% of the entire dataset), a common characteristic of real-world risk and failure prediction datasets.
-Detailed presentation and analysis can be found here: [View Full Report (PDF)](https://drive.google.com/file/d/1sqwbWzKwdR8Qpkknx1UNKMx88P8FHXE-/view?usp=sharing) (you might have to download it)
+
 > [!IMPORTANT]  
 > **Data Privacy Notice:** The dataset used in this project is internal company data and contains sensitive information. Therefore, **no raw data or processed datasets will be provided** in this repository. This project is shared for the purpose of demonstrating the methodology, feature engineering, and modeling scripts only.
 
