@@ -21,10 +21,10 @@ The table below summarizes the performance across different validation strategie
 
 | Rank | Method | Validation Type | Minority F1 | Precision | Recall | AUC-ROC | Realism |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|:---|
-| **1** | A + 70% B → test 30% B | Semi-temporal | **62.06%** | 56.46% | 68.90% | 94.14% | High (leakage) |
-| **2** | A + 50% B → test 50% B | Semi-temporal | 61.98% | 57.60% | 67.07% | 93.77% | High |
-| **4** | K-Fold CV on full A+B | Random mixed CV | 58.12% | 50.84% | 67.83% | 93.87% | Med-Low |
-| **7** | Forward Temporal | **Pure temporal** | **4.19%** | 19.37% | **2.35%** | 72.88% | **Highest** |
+| **1** | A + 70% B → test 30% B | Semi-temporal | **60.39%** | 53.32% | 69.63% | 94.59% | High (leakage) |
+| **2** | A + 50% B → test 50% B | Semi-temporal | 60.02% | 53.97% | 67.60% | 93.69% | High |
+| **4** | K-Fold CV on full A+B | Random mixed CV | 56.88% | 48.65% | 68.46% | 93.91% | Med-Low |
+| **7** | Forward Temporal | **Pure temporal** | **3.86%** | 7.71% | **2.57%** | 67.57% | **Highest** |
 ---
 
 ## Self-Assessment
